@@ -1,0 +1,2 @@
+# googloogy
+将整个googology社群的记号内容整理为一个文档以查阅
